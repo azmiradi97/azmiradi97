@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azmiradi97" alt="azmiradi97" /></a> </p>
 
-- 🔭 I’m currently working in [4Sale group](https://www.q84sale.com/)
+- 🔭 I’m currently working in [4Sale is Kuwait's largest online marketplace](https://www.q84sale.com/)
 
 - 🌱 I’m currently learning **Compose Multiplatform Framework**
 
