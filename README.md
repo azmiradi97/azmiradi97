@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **Great projects help me gain more skills**
 
-- 👨‍💻 Most of my projects are available at [https://github.com/azmiradi97](https://github.com/azmiradi97)
+- 👨‍💻 Most of my projects are available at [Old Github](https://github.com/azmiradi) or [Current Github](https://github.com/azmiradi97)
 
 - 💬 Ask me about **Android, Kotlin, Java, Compose, KMP**
 
