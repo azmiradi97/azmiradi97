@@ -1,4 +1,5 @@
-# Azmi Radi
+<h1 align="center">Hi 👋, I'm Azmi Radi</h1>
+<h3 align="center">Mobile Enginner (Java- Kotlin, KMP, Flutter)</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azmi-radi)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@azmiradi)
@@ -6,10 +7,6 @@
 [![GitHub (New)](https://img.shields.io/badge/GitHub%20(New)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azmiradi97)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/azmiradiazmi)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/azmiradi97)
-
----
-<h1 align="center">Hi 👋, I'm Azmi Radi</h1>
-<h3 align="center">Mobile Enginner (Java- Kotlin, KMP, Flutter)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azmiradi97&label=Profile%20views&color=0e75b6&style=flat" alt="azmiradi97" /> </p>
 
